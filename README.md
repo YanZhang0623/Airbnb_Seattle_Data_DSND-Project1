@@ -1,5 +1,5 @@
 # Data-Science-Project-1
-Motivation
+Motivation:
 
 For this project, I was interest in using Seatle Airbnb data to find useful information that will help the future visitor to find better place to stay with reasonable price.
 
@@ -9,7 +9,7 @@ The questions I iunterested in are:
   3. Is there a general upward trend of both new Airbnb lisings and total Airbnb visitors to Seattle?
   
 
-Install
+Install:
 
 This project requires Python 3.x and the follwing Python libraries installed:
 
@@ -20,7 +20,7 @@ This project requires Python 3.x and the follwing Python libraries installed:
 5. Seaborn
 6. Datetime
 
-File Description
+File Description:
 
 1. Data: *listings.csv. *Calendar.csv. * reviews.csv
 2. Jupyter notebook file with solution.
