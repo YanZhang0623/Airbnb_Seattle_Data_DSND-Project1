@@ -26,7 +26,7 @@ File Description:
 2. Jupyter notebook file with solution.
 
 Conclusion:
-1. The vibe of each neighborhood can be descreibed by the top works we found in reviews.
+1. The vibe of each neighborhood can be described by the words we found in reviews.
 2. The busiest time of the year to visit Seattle is in Auguest and the rental price is about $30 higher than January
 3. Both Airbnb lisings and Total Airbnb visitors to Seattle har been increased during the past years.
 
