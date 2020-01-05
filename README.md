@@ -25,6 +25,11 @@ File Description:
 1. Data: *listings.csv. *Calendar.csv. * reviews.csv
 2. Jupyter notebook file with solution.
 
+Conclusion:
+1. The vibe of each neighborhood can be descreibed by the top works we found in reviews.
+2. The busiest time of the year to visit Seattle is in Auguest and the rental price is about $30 higher than January
+3. Both Airbnb lisings and Total Airbnb visitors to Seattle har been increased during the past years.
+
 Summary of results:
 The results of the analysis are summarised in a blog posted here: https://medium.com/p/30383c878881/edit
 
