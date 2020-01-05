@@ -25,5 +25,8 @@ File Description:
 1. Data: *listings.csv. *Calendar.csv. * reviews.csv
 2. Jupyter notebook file with solution.
 
+Summary of results:
+The results of the analysis are summarised in a blog posted here: https://medium.com/p/30383c878881/edit
+
 
 
