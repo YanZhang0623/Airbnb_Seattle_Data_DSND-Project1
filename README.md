@@ -1,4 +1,4 @@
-# Data-Science-Project-1
+# Data-Scientist-Project-1
 Motivation:
 
 For this project, I was interest in using Seatle Airbnb data to find useful information that will help the future visitor to find better place to stay with reasonable price.
