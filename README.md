@@ -3,7 +3,7 @@ Motivation:
 
 For this project, I was interest in using Seatle Airbnb data to find useful information that will help the future visitor to find better place to stay with reasonable price.
 
-The questions I iunterested in are:
+The questions I am interested in are:
   1. What is the vibe of each Seattle neighborhood using listing descriptions?
   2. What are the busiest times of the year to visit Seattle? By how much do prices spike?
   3. Is there a general upward trend of both new Airbnb lisings and total Airbnb visitors to Seattle?
